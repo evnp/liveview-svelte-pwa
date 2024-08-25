@@ -48,3 +48,5 @@ npm-debug.log
 .dev.vars
 .env
 .env.production
+
+*.webm
